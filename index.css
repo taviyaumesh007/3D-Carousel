@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(0, 0, 0);
+   
+}
+h5{
+    font-family: "Audiowide", sans-serif;
+    text-shadow:  3px 3px 5px #024775;
+    color: aliceblue;
+    text-align: center;
+}
+h1:hover{
+    color: #024775;
+}
+.images{
+    height: 200px;
+    width: 100px;
+    border-radius: 50px;
+    transition: 2s;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.198);
+    -webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));   
+}
+body{
+    padding-top: 376px;
+    height: 100px;
+}
+
+#footer #footer_conten{
+    text-decoration: none;
+    cursor: none;
+    background-color:rgba(8, 5, 5, 0.452);
+
+}
